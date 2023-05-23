@@ -1,0 +1,5 @@
+D:\Eğitim\obj\Debug\net7.0\Eğitim.csproj.AssemblyReference.cache
+D:\Eğitim\obj\Debug\net7.0\Eğitim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eğitim\obj\Debug\net7.0\Eğitim.AssemblyInfoInputs.cache
+D:\Eğitim\obj\Debug\net7.0\Eğitim.AssemblyInfo.cs
+D:\Eğitim\obj\Debug\net7.0\Eğitim.csproj.CoreCompileInputs.cache

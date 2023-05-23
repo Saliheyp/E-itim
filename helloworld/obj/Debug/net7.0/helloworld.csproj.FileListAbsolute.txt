@@ -1,0 +1,15 @@
+D:\Eğitim\helloworld\bin\Debug\net7.0\helloworld.exe
+D:\Eğitim\helloworld\bin\Debug\net7.0\helloworld.deps.json
+D:\Eğitim\helloworld\bin\Debug\net7.0\helloworld.runtimeconfig.json
+D:\Eğitim\helloworld\bin\Debug\net7.0\helloworld.dll
+D:\Eğitim\helloworld\bin\Debug\net7.0\helloworld.pdb
+D:\Eğitim\helloworld\obj\Debug\net7.0\helloworld.csproj.AssemblyReference.cache
+D:\Eğitim\helloworld\obj\Debug\net7.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eğitim\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfoInputs.cache
+D:\Eğitim\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfo.cs
+D:\Eğitim\helloworld\obj\Debug\net7.0\helloworld.csproj.CoreCompileInputs.cache
+D:\Eğitim\helloworld\obj\Debug\net7.0\helloworld.dll
+D:\Eğitim\helloworld\obj\Debug\net7.0\refint\helloworld.dll
+D:\Eğitim\helloworld\obj\Debug\net7.0\helloworld.pdb
+D:\Eğitim\helloworld\obj\Debug\net7.0\helloworld.genruntimeconfig.cache
+D:\Eğitim\helloworld\obj\Debug\net7.0\ref\helloworld.dll
